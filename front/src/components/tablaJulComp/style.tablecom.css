@@ -1,0 +1,26 @@
+.encabezado {
+  display: flex;
+  font-weight: bold;
+  border-top: 2px solid gray;
+  border-bottom: 2px solid gray;
+  background-color: #dbc881;
+  padding-top: 1.2vh;
+  padding-bottom: 1vh;
+}
+
+.cuerpo {
+  display: flex;
+  border-bottom: 1px solid grey;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+}
+
+.O_column {
+  margin-left: 1vw;
+  /*  margin-right: 1vw; */
+}
+
+.cell {
+  border: none;
+  /* border-width: thin; */
+}

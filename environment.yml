@@ -1,0 +1,7 @@
+name: aranet
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7.12
+prefix: /home/julian/anaconda3/envs/aranet
